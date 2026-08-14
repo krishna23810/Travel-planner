@@ -1,11 +1,11 @@
 {
-    "name": "travel_planner",
-    "short_name": "travel_planner",
+    "name": "Travel Planner",
+    "short_name": "Travel Planner",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Travel Planner is a modern, Travel itinerary planner that helps you create personalized trip plans with ease.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

@@ -29,7 +29,8 @@ A comprehensive, clean, and intuitive Travel Planner application built with **Fl
 
 - Flutter SDK (Latest Stable)
 - Android Studio / VS Code
-- A valid API Key from [OpenWeatherMap](https://openweathermap.org/api) and [OpenTripMap](https://opentripmap.io/product)
+- A valid API Key from [OpenWeatherMap](https://openweathermap.org/api) and [OpenTripMap](https://dev.opentripmap.org/)
+and then go to the https://dev.opentripmap.org/examples and scrolle to Code short description there you will find the API key.
 
 ### Installation
 
